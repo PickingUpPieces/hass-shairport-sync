@@ -1,5 +1,5 @@
 {
-  "domain": "shairport_sync",
+  "domain": "shairport_sync_media_player",
   "name": "Shairport Sync Media Player",
   "version": "1.0.0",
   "documentation": "https://github.com/parautenbach/hass-shairport-sync/",
